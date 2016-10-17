@@ -133,7 +133,7 @@ class FileExcel {
 	         message.setSubject("Grading....");
 
 	        
-	         message.setText("Hello "+ st.getName()+" ," +"\n\n"+"Marks: " +st.getMarks() +"\n"+"Reason: "+ st.getNotes() +"\n\n"+ "Regards,"+"\n"+"Baljeet Singh");
+	         message.setText("Hello "+ st.getName()+" ," +"\n\n"+"Marks: " +st.getMarks() +"\n"+"Reason: "+ st.getNotes() +"\n\n"+ "Regards,"+"\n"+"Abhishek Kumar");
 
 	        
 	         Transport.send(message);
