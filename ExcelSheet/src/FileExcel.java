@@ -20,9 +20,7 @@ import javax.mail.internet.MimeMessage;
 
 class FileExcel {
 
-	public FileExcel() {
-		
-	}
+	public FileExcel() {}
 
 	@SuppressWarnings("deprecation")
 	public static ArrayList<Student> list1() throws IOException 
